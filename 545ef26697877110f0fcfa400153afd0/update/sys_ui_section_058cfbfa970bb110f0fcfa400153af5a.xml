@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Progress and Importance" section_id="058cfbfa970bb110f0fcfa400153af5a" sys_domain="global" table="x_1160697_to_do_to_do" version="3" view="User">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>progress</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-15 18:51:26</sys_created_on>
+            <sys_id>818cfbfa970bb110f0fcfa400153afa1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Progress and Importance" display_value="Progress and Importance" name="x_1160697_to_do_to_do" sys_domain="global" view="5bd975bd0fa03200cd674f8ce1050e7f">058cfbfa970bb110f0fcfa400153af5a</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-15 18:51:26</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-15 18:51:26</sys_created_on>
+            <sys_id>858cfbfa970bb110f0fcfa400153afa1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Progress and Importance" display_value="Progress and Importance" name="x_1160697_to_do_to_do" sys_domain="global" view="5bd975bd0fa03200cd674f8ce1050e7f">058cfbfa970bb110f0fcfa400153af5a</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-15 18:51:26</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>importance</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-15 18:51:26</sys_created_on>
+            <sys_id>898cfbfa970bb110f0fcfa400153afa1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Progress and Importance" display_value="Progress and Importance" name="x_1160697_to_do_to_do" sys_domain="global" view="5bd975bd0fa03200cd674f8ce1050e7f">058cfbfa970bb110f0fcfa400153af5a</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-15 18:51:26</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Progress and Importance</caption>
+            <header>false</header>
+            <name>x_1160697_to_do_to_do</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-15 18:51:26</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>058cfbfa970bb110f0fcfa400153af5a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1160697_to_do_to_do</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="To Do" source="x_1160697_to_do">545ef26697877110f0fcfa400153afd0</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="To Do">545ef26697877110f0fcfa400153afd0</sys_scope>
+            <sys_update_name>sys_ui_section_058cfbfa970bb110f0fcfa400153af5a</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-15 18:51:26</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="User" name="User">5bd975bd0fa03200cd674f8ce1050e7f</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>
